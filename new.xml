@@ -1,11 +1,9 @@
 <?xml version="1.0"?>
-<CAT>
-  <NAME>Izzy</NAME>
-  <BREED>Siamese</BREED>
-  <AGE>6</AGE>
-  <ALTERED>yes</ALTERED>
-  <DECLAWED>no</DECLAWED>
-  <LICENSE>Izz138bod</LICENSE>
-  <OWNER>Colin Wilcox</OWNER>
-</CAT>
+<ME>
+	<LastName>Bezvuhliak</LastName>
+  <FirstName>Nataliia</FirstName>
+  <Animals>1</Animals>
+  <Salary>1500</Salary>
+</ME>
+
 
